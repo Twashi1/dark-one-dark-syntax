@@ -1,5 +1,5 @@
 {
-  "name": "one-darker-syntax",
+  "name": "dark-one-dark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A darker syntax theme based on 'One Dark'",
@@ -7,9 +7,10 @@
     "dark",
     "darker",
     "one dark",
+    "onedark",
     "syntax"
   ],
-  "repository": "https://github.com/mgovea/one-darker-syntax",
+  "repository": "https://github.com/mgovea/dark-one-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
