@@ -2,7 +2,7 @@
   "name": "dark-one-dark-syntax",
   "theme": "syntax",
   "version": "2.0.0",
-  "description": "A darker syntax theme based on 'One Dark'",
+  "description": "A syntax theme based on 'One Dark'. Modified to be slightly higher contrast.",
   "keywords": [
     "dark",
     "darker",
